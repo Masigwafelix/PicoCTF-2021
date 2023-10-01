@@ -1,10 +1,4 @@
 # picoCTF - 2021
-March 16th - March 30th, 2021
-
-Hosted by Carnegie Melon University and CyLab
-
-## About
-These writeups are from Killer Queen which placed 9th in the US High School Leaderboard and 18th in the Global Leaderboard.
 
 > Want to play these challenges yourself? Head on over to the [picoCTF practice gym website](https://play.picoctf.org/practice).
 
